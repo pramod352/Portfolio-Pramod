@@ -4,7 +4,7 @@ import { Calendar, MapPin, CheckCircle } from 'lucide-react';
 const Experience: React.FC = () => {
   const experiences = [
         {
-      title: 'US HealthCare Project',
+      title: 'Quality Assurance Engineer',
       company: 'Maitri Services Pvt. Ltd.',
       location: 'Onsite-Kathmandu',
       period: 'March 17 2025- Currently Working ',
