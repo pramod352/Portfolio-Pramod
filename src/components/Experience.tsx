@@ -16,7 +16,7 @@ const Experience: React.FC = () => {
       ]
     },
      {
-      title: 'QA Engineer',
+      title: 'Associate Quality Assurance Engineer',
       company: 'Krispcall Telephony(Codavatar PVE.LTD.)',
       location: 'Singapore',
       period: 'July-2 2023 - March-12 2025',
